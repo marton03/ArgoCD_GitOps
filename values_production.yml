@@ -1,5 +1,5 @@
 replicas: 3
 image:
-  repository: Marton03/spring
+  repository: martonmehes/spring
   tag: 0.0.1
 environment: production
